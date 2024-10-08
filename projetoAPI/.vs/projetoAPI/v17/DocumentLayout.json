@@ -1,0 +1,424 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\andre\\OneDrive\\Documentos\\projetoAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{010FCD95-9ADF-47DE-A0FD-365DC12B1E74}|projetoAPI\\projetoAPI.csproj|c:\\users\\andre\\onedrive\\documentos\\projetoapi\\projetoapi\\models\\equipamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{010FCD95-9ADF-47DE-A0FD-365DC12B1E74}|projetoAPI\\projetoAPI.csproj|solutionrelative:projetoapi\\models\\equipamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{010FCD95-9ADF-47DE-A0FD-365DC12B1E74}|projetoAPI\\projetoAPI.csproj|c:\\users\\andre\\onedrive\\documentos\\projetoapi\\projetoapi\\dto\\equipamentodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{010FCD95-9ADF-47DE-A0FD-365DC12B1E74}|projetoAPI\\projetoAPI.csproj|solutionrelative:projetoapi\\dto\\equipamentodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{010FCD95-9ADF-47DE-A0FD-365DC12B1E74}|projetoAPI\\projetoAPI.csproj|c:\\users\\andre\\onedrive\\documentos\\projetoapi\\projetoapi\\dto\\enderecodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{010FCD95-9ADF-47DE-A0FD-365DC12B1E74}|projetoAPI\\projetoAPI.csproj|solutionrelative:projetoapi\\dto\\enderecodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{010FCD95-9ADF-47DE-A0FD-365DC12B1E74}|projetoAPI\\projetoAPI.csproj|c:\\users\\andre\\onedrive\\documentos\\projetoapi\\projetoapi\\models\\endereco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{010FCD95-9ADF-47DE-A0FD-365DC12B1E74}|projetoAPI\\projetoAPI.csproj|solutionrelative:projetoapi\\models\\endereco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{010FCD95-9ADF-47DE-A0FD-365DC12B1E74}|projetoAPI\\projetoAPI.csproj|c:\\users\\andre\\onedrive\\documentos\\projetoapi\\projetoapi\\models\\classificacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{010FCD95-9ADF-47DE-A0FD-365DC12B1E74}|projetoAPI\\projetoAPI.csproj|solutionrelative:projetoapi\\models\\classificacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{010FCD95-9ADF-47DE-A0FD-365DC12B1E74}|projetoAPI\\projetoAPI.csproj|c:\\users\\andre\\onedrive\\documentos\\projetoapi\\projetoapi\\models\\aparicao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{010FCD95-9ADF-47DE-A0FD-365DC12B1E74}|projetoAPI\\projetoAPI.csproj|solutionrelative:projetoapi\\models\\aparicao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{010FCD95-9ADF-47DE-A0FD-365DC12B1E74}|projetoAPI\\projetoAPI.csproj|c:\\users\\andre\\onedrive\\documentos\\projetoapi\\projetoapi\\controllers\\aparicaocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{010FCD95-9ADF-47DE-A0FD-365DC12B1E74}|projetoAPI\\projetoAPI.csproj|solutionrelative:projetoapi\\controllers\\aparicaocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{010FCD95-9ADF-47DE-A0FD-365DC12B1E74}|projetoAPI\\projetoAPI.csproj|c:\\users\\andre\\onedrive\\documentos\\projetoapi\\projetoapi\\dto\\aparicaodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{010FCD95-9ADF-47DE-A0FD-365DC12B1E74}|projetoAPI\\projetoAPI.csproj|solutionrelative:projetoapi\\dto\\aparicaodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{010FCD95-9ADF-47DE-A0FD-365DC12B1E74}|projetoAPI\\projetoAPI.csproj|c:\\users\\andre\\onedrive\\documentos\\projetoapi\\projetoapi\\controllers\\transportadorcontrollers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{010FCD95-9ADF-47DE-A0FD-365DC12B1E74}|projetoAPI\\projetoAPI.csproj|solutionrelative:projetoapi\\controllers\\transportadorcontrollers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{010FCD95-9ADF-47DE-A0FD-365DC12B1E74}|projetoAPI\\projetoAPI.csproj|c:\\users\\andre\\onedrive\\documentos\\projetoapi\\projetoapi\\models\\transportador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{010FCD95-9ADF-47DE-A0FD-365DC12B1E74}|projetoAPI\\projetoAPI.csproj|solutionrelative:projetoapi\\models\\transportador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{010FCD95-9ADF-47DE-A0FD-365DC12B1E74}|projetoAPI\\projetoAPI.csproj|c:\\users\\andre\\onedrive\\documentos\\projetoapi\\projetoapi\\dto\\transportadordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{010FCD95-9ADF-47DE-A0FD-365DC12B1E74}|projetoAPI\\projetoAPI.csproj|solutionrelative:projetoapi\\dto\\transportadordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{010FCD95-9ADF-47DE-A0FD-365DC12B1E74}|projetoAPI\\projetoAPI.csproj|c:\\users\\andre\\onedrive\\documentos\\projetoapi\\projetoapi\\controllers\\produtocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{010FCD95-9ADF-47DE-A0FD-365DC12B1E74}|projetoAPI\\projetoAPI.csproj|solutionrelative:projetoapi\\controllers\\produtocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{010FCD95-9ADF-47DE-A0FD-365DC12B1E74}|projetoAPI\\projetoAPI.csproj|c:\\users\\andre\\onedrive\\documentos\\projetoapi\\projetoapi\\controllers\\proprietariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{010FCD95-9ADF-47DE-A0FD-365DC12B1E74}|projetoAPI\\projetoAPI.csproj|solutionrelative:projetoapi\\controllers\\proprietariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{010FCD95-9ADF-47DE-A0FD-365DC12B1E74}|projetoAPI\\projetoAPI.csproj|c:\\users\\andre\\onedrive\\documentos\\projetoapi\\projetoapi\\controllers\\enderecocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{010FCD95-9ADF-47DE-A0FD-365DC12B1E74}|projetoAPI\\projetoAPI.csproj|solutionrelative:projetoapi\\controllers\\enderecocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{010FCD95-9ADF-47DE-A0FD-365DC12B1E74}|projetoAPI\\projetoAPI.csproj|c:\\users\\andre\\onedrive\\documentos\\projetoapi\\projetoapi\\controllers\\fornecedorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{010FCD95-9ADF-47DE-A0FD-365DC12B1E74}|projetoAPI\\projetoAPI.csproj|solutionrelative:projetoapi\\controllers\\fornecedorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{010FCD95-9ADF-47DE-A0FD-365DC12B1E74}|projetoAPI\\projetoAPI.csproj|c:\\users\\andre\\onedrive\\documentos\\projetoapi\\projetoapi\\controllers\\classificacaocontrolls.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{010FCD95-9ADF-47DE-A0FD-365DC12B1E74}|projetoAPI\\projetoAPI.csproj|solutionrelative:projetoapi\\controllers\\classificacaocontrolls.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{010FCD95-9ADF-47DE-A0FD-365DC12B1E74}|projetoAPI\\projetoAPI.csproj|c:\\users\\andre\\onedrive\\documentos\\projetoapi\\projetoapi\\dto\\classificacaodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{010FCD95-9ADF-47DE-A0FD-365DC12B1E74}|projetoAPI\\projetoAPI.csproj|solutionrelative:projetoapi\\dto\\classificacaodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{010FCD95-9ADF-47DE-A0FD-365DC12B1E74}|projetoAPI\\projetoAPI.csproj|c:\\users\\andre\\onedrive\\documentos\\projetoapi\\projetoapi\\controllers\\equipamentocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{010FCD95-9ADF-47DE-A0FD-365DC12B1E74}|projetoAPI\\projetoAPI.csproj|solutionrelative:projetoapi\\controllers\\equipamentocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{010FCD95-9ADF-47DE-A0FD-365DC12B1E74}|projetoAPI\\projetoAPI.csproj|c:\\users\\andre\\onedrive\\documentos\\projetoapi\\projetoapi\\models\\fornecedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{010FCD95-9ADF-47DE-A0FD-365DC12B1E74}|projetoAPI\\projetoAPI.csproj|solutionrelative:projetoapi\\models\\fornecedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{010FCD95-9ADF-47DE-A0FD-365DC12B1E74}|projetoAPI\\projetoAPI.csproj|c:\\users\\andre\\onedrive\\documentos\\projetoapi\\projetoapi\\dto\\fornecedordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{010FCD95-9ADF-47DE-A0FD-365DC12B1E74}|projetoAPI\\projetoAPI.csproj|solutionrelative:projetoapi\\dto\\fornecedordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{010FCD95-9ADF-47DE-A0FD-365DC12B1E74}|projetoAPI\\projetoAPI.csproj|c:\\users\\andre\\onedrive\\documentos\\projetoapi\\projetoapi\\models\\propriedade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{010FCD95-9ADF-47DE-A0FD-365DC12B1E74}|projetoAPI\\projetoAPI.csproj|solutionrelative:projetoapi\\models\\propriedade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{010FCD95-9ADF-47DE-A0FD-365DC12B1E74}|projetoAPI\\projetoAPI.csproj|c:\\users\\andre\\onedrive\\documentos\\projetoapi\\projetoapi\\dto\\produtodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{010FCD95-9ADF-47DE-A0FD-365DC12B1E74}|projetoAPI\\projetoAPI.csproj|solutionrelative:projetoapi\\dto\\produtodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{010FCD95-9ADF-47DE-A0FD-365DC12B1E74}|projetoAPI\\projetoAPI.csproj|c:\\users\\andre\\onedrive\\documentos\\projetoapi\\projetoapi\\dto\\propriedadedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{010FCD95-9ADF-47DE-A0FD-365DC12B1E74}|projetoAPI\\projetoAPI.csproj|solutionrelative:projetoapi\\dto\\propriedadedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{010FCD95-9ADF-47DE-A0FD-365DC12B1E74}|projetoAPI\\projetoAPI.csproj|c:\\users\\andre\\onedrive\\documentos\\projetoapi\\projetoapi\\models\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{010FCD95-9ADF-47DE-A0FD-365DC12B1E74}|projetoAPI\\projetoAPI.csproj|solutionrelative:projetoapi\\models\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Aparicao.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\OneDrive\\Documentos\\projetoAPI\\projetoAPI\\Models\\Aparicao.cs",
+              "RelativeDocumentMoniker": "projetoAPI\\Models\\Aparicao.cs",
+              "ToolTip": "C:\\Users\\andre\\OneDrive\\Documentos\\projetoAPI\\projetoAPI\\Models\\Aparicao.cs",
+              "RelativeToolTip": "projetoAPI\\Models\\Aparicao.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T15:07:51.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AparicaoDTO.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\OneDrive\\Documentos\\projetoAPI\\projetoAPI\\DTO\\AparicaoDTO.cs",
+              "RelativeDocumentMoniker": "projetoAPI\\DTO\\AparicaoDTO.cs",
+              "ToolTip": "C:\\Users\\andre\\OneDrive\\Documentos\\projetoAPI\\projetoAPI\\DTO\\AparicaoDTO.cs",
+              "RelativeToolTip": "projetoAPI\\DTO\\AparicaoDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T15:06:22.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AparicaoController.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\OneDrive\\Documentos\\projetoAPI\\projetoAPI\\Controllers\\AparicaoController.cs",
+              "RelativeDocumentMoniker": "projetoAPI\\Controllers\\AparicaoController.cs",
+              "ToolTip": "C:\\Users\\andre\\OneDrive\\Documentos\\projetoAPI\\projetoAPI\\Controllers\\AparicaoController.cs",
+              "RelativeToolTip": "projetoAPI\\Controllers\\AparicaoController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAkAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T15:05:30.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EquipamentoDTO.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\OneDrive\\Documentos\\projetoAPI\\projetoAPI\\DTO\\EquipamentoDTO.cs",
+              "RelativeDocumentMoniker": "projetoAPI\\DTO\\EquipamentoDTO.cs",
+              "ToolTip": "C:\\Users\\andre\\OneDrive\\Documentos\\projetoAPI\\projetoAPI\\DTO\\EquipamentoDTO.cs",
+              "RelativeToolTip": "projetoAPI\\DTO\\EquipamentoDTO.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAA0wBIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T15:04:22.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Equipamento.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\OneDrive\\Documentos\\projetoAPI\\projetoAPI\\Models\\Equipamento.cs",
+              "RelativeDocumentMoniker": "projetoAPI\\Models\\Equipamento.cs",
+              "ToolTip": "C:\\Users\\andre\\OneDrive\\Documentos\\projetoAPI\\projetoAPI\\Models\\Equipamento.cs",
+              "RelativeToolTip": "projetoAPI\\Models\\Equipamento.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T15:03:50.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "EquipamentoController.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\OneDrive\\Documentos\\projetoAPI\\projetoAPI\\Controllers\\EquipamentoController.cs",
+              "RelativeDocumentMoniker": "projetoAPI\\Controllers\\EquipamentoController.cs",
+              "ToolTip": "C:\\Users\\andre\\OneDrive\\Documentos\\projetoAPI\\projetoAPI\\Controllers\\EquipamentoController.cs",
+              "RelativeToolTip": "projetoAPI\\Controllers\\EquipamentoController.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAowCQAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T15:00:09.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "transportador.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\OneDrive\\Documentos\\projetoAPI\\projetoAPI\\Models\\transportador.cs",
+              "RelativeDocumentMoniker": "projetoAPI\\Models\\transportador.cs",
+              "ToolTip": "C:\\Users\\andre\\OneDrive\\Documentos\\projetoAPI\\projetoAPI\\Models\\transportador.cs",
+              "RelativeToolTip": "projetoAPI\\Models\\transportador.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T14:59:09.794Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "transportadorDTO.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\OneDrive\\Documentos\\projetoAPI\\projetoAPI\\DTO\\transportadorDTO.cs",
+              "RelativeDocumentMoniker": "projetoAPI\\DTO\\transportadorDTO.cs",
+              "ToolTip": "C:\\Users\\andre\\OneDrive\\Documentos\\projetoAPI\\projetoAPI\\DTO\\transportadorDTO.cs",
+              "RelativeToolTip": "projetoAPI\\DTO\\transportadorDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T14:58:23.923Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "transportadorControllers.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\OneDrive\\Documentos\\projetoAPI\\projetoAPI\\Controllers\\transportadorControllers.cs",
+              "RelativeDocumentMoniker": "projetoAPI\\Controllers\\transportadorControllers.cs",
+              "ToolTip": "C:\\Users\\andre\\OneDrive\\Documentos\\projetoAPI\\projetoAPI\\Controllers\\transportadorControllers.cs",
+              "RelativeToolTip": "projetoAPI\\Controllers\\transportadorControllers.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T14:57:28.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ClassificacaoDTO.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\OneDrive\\Documentos\\projetoAPI\\projetoAPI\\DTO\\ClassificacaoDTO.cs",
+              "RelativeDocumentMoniker": "projetoAPI\\DTO\\ClassificacaoDTO.cs",
+              "ToolTip": "C:\\Users\\andre\\OneDrive\\Documentos\\projetoAPI\\projetoAPI\\DTO\\ClassificacaoDTO.cs",
+              "RelativeToolTip": "projetoAPI\\DTO\\ClassificacaoDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T14:53:29.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Classificacao.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\OneDrive\\Documentos\\projetoAPI\\projetoAPI\\Models\\Classificacao.cs",
+              "RelativeDocumentMoniker": "projetoAPI\\Models\\Classificacao.cs",
+              "ToolTip": "C:\\Users\\andre\\OneDrive\\Documentos\\projetoAPI\\projetoAPI\\Models\\Classificacao.cs",
+              "RelativeToolTip": "projetoAPI\\Models\\Classificacao.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T14:52:39.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ClassificacaoControlls.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\OneDrive\\Documentos\\projetoAPI\\projetoAPI\\Controllers\\ClassificacaoControlls.cs",
+              "RelativeDocumentMoniker": "projetoAPI\\Controllers\\ClassificacaoControlls.cs",
+              "ToolTip": "C:\\Users\\andre\\OneDrive\\Documentos\\projetoAPI\\projetoAPI\\Controllers\\ClassificacaoControlls.cs",
+              "RelativeToolTip": "projetoAPI\\Controllers\\ClassificacaoControlls.cs",
+              "ViewState": "AQIAAEEAAAAAAAAAAAAIwCQAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T14:51:51.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Fornecedor.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\OneDrive\\Documentos\\projetoAPI\\projetoAPI\\Models\\Fornecedor.cs",
+              "RelativeDocumentMoniker": "projetoAPI\\Models\\Fornecedor.cs",
+              "ToolTip": "C:\\Users\\andre\\OneDrive\\Documentos\\projetoAPI\\projetoAPI\\Models\\Fornecedor.cs",
+              "RelativeToolTip": "projetoAPI\\Models\\Fornecedor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T14:50:29.01Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "FornecedorDTO.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\OneDrive\\Documentos\\projetoAPI\\projetoAPI\\DTO\\FornecedorDTO.cs",
+              "RelativeDocumentMoniker": "projetoAPI\\DTO\\FornecedorDTO.cs",
+              "ToolTip": "C:\\Users\\andre\\OneDrive\\Documentos\\projetoAPI\\projetoAPI\\DTO\\FornecedorDTO.cs",
+              "RelativeToolTip": "projetoAPI\\DTO\\FornecedorDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T14:49:36.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FornecedorController.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\OneDrive\\Documentos\\projetoAPI\\projetoAPI\\Controllers\\FornecedorController.cs",
+              "RelativeDocumentMoniker": "projetoAPI\\Controllers\\FornecedorController.cs",
+              "ToolTip": "C:\\Users\\andre\\OneDrive\\Documentos\\projetoAPI\\projetoAPI\\Controllers\\FornecedorController.cs",
+              "RelativeToolTip": "projetoAPI\\Controllers\\FornecedorController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEEAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T14:48:31.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "enderecoDTO.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\OneDrive\\Documentos\\projetoAPI\\projetoAPI\\DTO\\enderecoDTO.cs",
+              "RelativeDocumentMoniker": "projetoAPI\\DTO\\enderecoDTO.cs",
+              "ToolTip": "C:\\Users\\andre\\OneDrive\\Documentos\\projetoAPI\\projetoAPI\\DTO\\enderecoDTO.cs",
+              "RelativeToolTip": "projetoAPI\\DTO\\enderecoDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T14:38:44.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "endereco.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\OneDrive\\Documentos\\projetoAPI\\projetoAPI\\Models\\endereco.cs",
+              "RelativeDocumentMoniker": "projetoAPI\\Models\\endereco.cs",
+              "ToolTip": "C:\\Users\\andre\\OneDrive\\Documentos\\projetoAPI\\projetoAPI\\Models\\endereco.cs",
+              "RelativeToolTip": "projetoAPI\\Models\\endereco.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T14:38:01.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "enderecoController.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\OneDrive\\Documentos\\projetoAPI\\projetoAPI\\Controllers\\enderecoController.cs",
+              "RelativeDocumentMoniker": "projetoAPI\\Controllers\\enderecoController.cs",
+              "ToolTip": "C:\\Users\\andre\\OneDrive\\Documentos\\projetoAPI\\projetoAPI\\Controllers\\enderecoController.cs",
+              "RelativeToolTip": "projetoAPI\\Controllers\\enderecoController.cs",
+              "ViewState": "AQIAAFgAAAAAAAAAAAAcwA0AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T14:36:59.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Propriedade.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\OneDrive\\Documentos\\projetoAPI\\projetoAPI\\Models\\Propriedade.cs",
+              "RelativeDocumentMoniker": "projetoAPI\\Models\\Propriedade.cs",
+              "ToolTip": "C:\\Users\\andre\\OneDrive\\Documentos\\projetoAPI\\projetoAPI\\Models\\Propriedade.cs",
+              "RelativeToolTip": "projetoAPI\\Models\\Propriedade.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T14:30:54.17Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "PropriedadeDTO.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\OneDrive\\Documentos\\projetoAPI\\projetoAPI\\DTO\\PropriedadeDTO.cs",
+              "RelativeDocumentMoniker": "projetoAPI\\DTO\\PropriedadeDTO.cs",
+              "ToolTip": "C:\\Users\\andre\\OneDrive\\Documentos\\projetoAPI\\projetoAPI\\DTO\\PropriedadeDTO.cs",
+              "RelativeToolTip": "projetoAPI\\DTO\\PropriedadeDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T14:30:27.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ProprietarioController.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\OneDrive\\Documentos\\projetoAPI\\projetoAPI\\Controllers\\ProprietarioController.cs",
+              "RelativeDocumentMoniker": "projetoAPI\\Controllers\\ProprietarioController.cs",
+              "ToolTip": "C:\\Users\\andre\\OneDrive\\Documentos\\projetoAPI\\projetoAPI\\Controllers\\ProprietarioController.cs",
+              "RelativeToolTip": "projetoAPI\\Controllers\\ProprietarioController.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T14:29:09.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ProdutoDTO.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\OneDrive\\Documentos\\projetoAPI\\projetoAPI\\DTO\\ProdutoDTO.cs",
+              "RelativeDocumentMoniker": "projetoAPI\\DTO\\ProdutoDTO.cs",
+              "ToolTip": "C:\\Users\\andre\\OneDrive\\Documentos\\projetoAPI\\projetoAPI\\DTO\\ProdutoDTO.cs",
+              "RelativeToolTip": "projetoAPI\\DTO\\ProdutoDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T14:21:51.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Produto.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\OneDrive\\Documentos\\projetoAPI\\projetoAPI\\Models\\Produto.cs",
+              "RelativeDocumentMoniker": "projetoAPI\\Models\\Produto.cs",
+              "ToolTip": "C:\\Users\\andre\\OneDrive\\Documentos\\projetoAPI\\projetoAPI\\Models\\Produto.cs",
+              "RelativeToolTip": "projetoAPI\\Models\\Produto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T14:21:28.5Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ProdutoController.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\OneDrive\\Documentos\\projetoAPI\\projetoAPI\\Controllers\\ProdutoController.cs",
+              "RelativeDocumentMoniker": "projetoAPI\\Controllers\\ProdutoController.cs",
+              "ToolTip": "C:\\Users\\andre\\OneDrive\\Documentos\\projetoAPI\\projetoAPI\\Controllers\\ProdutoController.cs",
+              "RelativeToolTip": "projetoAPI\\Controllers\\ProdutoController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T14:20:44.265Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
