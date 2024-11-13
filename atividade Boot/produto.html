@@ -30,7 +30,7 @@
                 <div class = "collapse navbar-collapse" id = "meumenu">
                     <ul class = "nav flex-column">
                         <li class ="nav-item">
-                            <a class = "nav-link active" aria-current="page" href="menu.html">Voltar</a>
+                            <a class = "nav-link sair" aria-current="page" href="PRODUTOTAB.HTML">Voltar</a>
                         </li>
                     
                     </ul>
@@ -46,9 +46,11 @@
                     <div class="row">
                         <div class="form-group col-3">
                             <label>Nome:</label>
-                            <select id="Nome" class="form-control" required>
+                            <select id="Nome" class="form-select" required>
                                 <option value="">Selecione o Produto</option>
                                 <option value="Vacina">Vacina</option>
+                                <option value="Vacina">Remédios</option>
+                                <option value="Vacina">Outros</option>
                               
                             </select>
                         </div>
@@ -88,10 +90,12 @@
                     <br>
                     <div class="row">
                         <div class="form-group d-flex justify-content-end">
-                            <button type="button" class="btn btn-danger ms-3">Cancelar <i class="bi bi-arrow-left-circle-fill"></i></button>
-                            <button type="submit" class="btn btn-warning ms-3">Atualizar <i class="bi bi-box2-heart"></i></button>
-                            <button type="submit" class="btn btn-success ms-3">Salvar <i class="bi bi-arrow-left-circle"></i></button>
-                            
+                            <button type ="submit" class = "btn btn-success">
+                                Salvar <i class="bi bi-floppy"></i>
+                            </button>
+                            <button type ="submit" class = "btn btn-warning">
+                                Excluir <i class="bi bi-x-circle"></i>
+                            </button>
                         </div>
                     </div>
                 </form>

@@ -6,7 +6,7 @@
 .slidebar{
     background-color: rgb(27, 67, 50);
     display: flex;
-    padding: 10px;
+    padding: 20px;
     
 }
 .logo{
@@ -60,4 +60,13 @@ a:hover{
 }
 .todohome{
     display: flex;
+}
+.nav-link.sair {
+    color: red;
+}
+.card p-4 shadow{
+    background-color: rgb(27, 67, 50);
+}
+.cor{
+    background-color: rgb(27, 67, 50);
 }

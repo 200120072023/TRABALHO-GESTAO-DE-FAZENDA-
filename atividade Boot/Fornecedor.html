@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fornecedor</title>
+    <title>Cadastro de Fornecedor</title>
     <link rel=" stylesheet" href="CSS/estilo.css">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
     <link rel="stylesheet" href="CSS/bootstrap.css">
@@ -30,7 +30,7 @@
                 <div class = "collapse navbar-collapse" id = "meumenu">
                     <ul class = "nav flex-column">
                         <li class ="nav-item">
-                            <a class = "nav-link active" aria-current="page" href="menu.html">Voltar</a>
+                            <a class = "nav-link sair" aria-current="page" href="fornecedortab.html">Voltar</a>
                         </li>
                     
                     </ul>
@@ -45,7 +45,7 @@
                 <div class ="row">
                     <div class = "form-group col-3">
                             <label>Tipo</label>
-                            <select class="form-control">
+                            <select class="form-select">
                                 <option value="">Fornecedor de Gado</option>
                                 <option value="2">Fornecedor de Ração</option>
                                 <option value="3">Fornecedor de Vacina</option>
@@ -89,14 +89,17 @@
                     </div>
                     
                 </div>
-    
-            
                 <br>
                 <div class ="row">
                     <div class = "form-group">
-                    <button type="button" class="btn btn-danger">Cancelar <i class="bi bi-floppy"></i></button>
-                    <button type="button" class="btn btn-warning">Atualizar <i class="bi bi-box2-heart"></i> </i></button>
-                    <button type="button" class="btn btn-success">Salvar <i class="bi bi-arrow-left-circle"></i></i></button>
+                        <button type ="submit" class = "btn btn-success">
+                            Salvar <i class="bi bi-floppy"></i>
+                        </button>
+                        <button type ="submit" class = "btn btn-warning">
+                            Excluir <i class="bi bi-x-circle"></i>
+                        </button>
+                       
+                   
                     </div>
                 </div>
             
